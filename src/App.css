@@ -1,0 +1,177 @@
+/*=======================================
+ Common CSS
+========================================*/
+body {
+  font-family: "Kaisei Decol", serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Oswald", sans-serif;
+  line-height: 1.5em;
+}
+img {
+  max-width: 100%;
+}
+h3 {
+  color: #000;
+}
+p {
+  color: #000;
+}
+
+/*=======================================
+ Header Area Style
+========================================*/
+#header_area {
+  padding: 15px 0;
+}
+
+#header_area .col-md-9 ul {
+  font-family: "Oswald", sans-serif;
+  margin: 10px 0 0;
+  padding: 0;
+  list-style: none;
+  text-align: right;
+}
+#header_area .col-md-9 ul li {
+  display: inline-block;
+  position: relative;
+}
+#header_area .col-md-9 ul li a {
+  color: #262626;
+  padding: 20px 10px;
+  display: block;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+#header_area .col-md-9 ul li a:hover {
+  background: #6bac36;
+  color: #fff;
+}
+
+/*Dropdown Menu*/
+#header_area .col-md-9 ul li ul {
+  background: #262626 none repeat scroll 0 0;
+  left: -99999px;
+  margin: 0;
+  position: absolute;
+  text-align: left;
+  top: 62px;
+  width: 200px;
+}
+#header_area .col-md-9 ul li:hover ul {
+  left: 0px;
+}
+#header_area .col-md-9 ul li ul li {
+  display: block;
+}
+#header_area .col-md-9 ul li ul li a {
+  color: #fff;
+  padding: 8px 10px;
+}
+#header_area .col-md-9 ul li ul li a:hover {
+  background: #ddd;
+  color: #262626;
+}
+#header_area .col-md-9 ul li:hover a {
+  background: #6bac36;
+  color: #fff;
+}
+#header_area .col-md-3 h3 b {
+  color: #578b2c;
+}
+#header_area .col-md-9 ul li:hover ul li a {
+  background: none;
+  color: #fff;
+}
+
+/*Sub Dropdown Menu*/
+#header_area .col-md-9 ul li ul ul {
+  left: -99999px;
+  top: 0;
+  position: absolute;
+}
+#header_area .col-md-9 ul li:hover ul li ul {
+  left: -999999px;
+}
+#header_area .col-md-9 ul li ul li:hover ul {
+  left: 200px;
+}
+#header_area .col-md-9 ul li ul li:hover a {
+  background: #6bac36;
+  color: #fff;
+}
+#header_area .col-md-9 ul ul li:hover ul li a {
+  background: #262626;
+  color: #fff;
+}
+#header_area .col-md-9 ul ul li ul li a:hover {
+  background: #6bac36;
+  color: #fff;
+}
+
+
+
+.deck_cards{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.cards {
+  display: flex;
+  align-items: flex-start;
+    justify-content: center;
+}
+
+.card {
+  background: #fff;
+  width: 24em;
+  border-radius: 0.6em;
+  margin: 1em;
+  overflow: hidden;
+  cursor: pointer;
+  box-shadow: 0 13px 27px -5px hsla(240, 30.1%, 28%, 0.25), 0 8px 16px -8px hsla(0, 0%, 0%, 0.3), 0 -6px 16px -6px hsla(0, 0%, 0%, 0.03);
+  transition: all ease 200ms;
+}
+
+.card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 13px 40px -5px hsla(240, 30.1%, 28%, 0.12), 0 8px 32px -8px hsla(0, 0%, 0%, 0.14), 0 -6px 32px -6px hsla(0, 0%, 0%, 0.02);
+}
+
+.card img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.card h2 {
+  color: #222;
+  margin-top: -0.2em;
+  line-height: 1.4;
+  font-size: 1.3em;
+  font-weight: 500;
+  font-family: 'Montserrat', sans-serif;
+  transition: all ease-in 100ms;
+}
+
+.card p {
+  color: #777;
+}
+
+.card h5 {
+  color: rgb(32, 56, 18);
+  font-weight: 700;
+  font-size: 1.5em;
+  letter-spacing: 0.04em;
+  margin: 1.4em 0 0 0;
+  text-transform: uppercase;
+}
+
+.card-body {
+  padding: 1.2em;
+}
