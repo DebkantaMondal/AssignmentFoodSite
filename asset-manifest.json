@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/AssignmentFoodSite/static/css/main.c8110a1b.chunk.css",
+    "main.js": "/AssignmentFoodSite/static/js/main.d6aa3686.chunk.js",
+    "main.js.map": "/AssignmentFoodSite/static/js/main.d6aa3686.chunk.js.map",
+    "runtime-main.js": "/AssignmentFoodSite/static/js/runtime-main.7b478409.js",
+    "runtime-main.js.map": "/AssignmentFoodSite/static/js/runtime-main.7b478409.js.map",
+    "static/css/2.818011ed.chunk.css": "/AssignmentFoodSite/static/css/2.818011ed.chunk.css",
+    "static/js/2.846cefd5.chunk.js": "/AssignmentFoodSite/static/js/2.846cefd5.chunk.js",
+    "static/js/2.846cefd5.chunk.js.map": "/AssignmentFoodSite/static/js/2.846cefd5.chunk.js.map",
+    "static/js/3.55ecd032.chunk.js": "/AssignmentFoodSite/static/js/3.55ecd032.chunk.js",
+    "static/js/3.55ecd032.chunk.js.map": "/AssignmentFoodSite/static/js/3.55ecd032.chunk.js.map",
+    "index.html": "/AssignmentFoodSite/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/AssignmentFoodSite/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.c8110a1b.chunk.css.map": "/AssignmentFoodSite/static/css/main.c8110a1b.chunk.css.map",
+    "static/js/2.846cefd5.chunk.js.LICENSE.txt": "/AssignmentFoodSite/static/js/2.846cefd5.chunk.js.LICENSE.txt",
+    "static/media/1.21591043.jpg": "/AssignmentFoodSite/static/media/1.21591043.jpg",
+    "static/media/2.d3572903.jpg": "/AssignmentFoodSite/static/media/2.d3572903.jpg",
+    "static/media/3.f7c6de4c.jpg": "/AssignmentFoodSite/static/media/3.f7c6de4c.jpg",
+    "static/media/bThali.57f39f5b.jpeg": "/AssignmentFoodSite/static/media/bThali.57f39f5b.jpeg",
+    "static/media/logo.6ce24c58.svg": "/AssignmentFoodSite/static/media/logo.6ce24c58.svg",
+    "static/media/recipe1.6dcb2a83.jpeg": "/AssignmentFoodSite/static/media/recipe1.6dcb2a83.jpeg",
+    "static/media/recipe2.06e45063.jpeg": "/AssignmentFoodSite/static/media/recipe2.06e45063.jpeg",
+    "static/media/recipe3.408e6269.jpeg": "/AssignmentFoodSite/static/media/recipe3.408e6269.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b478409.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.846cefd5.chunk.js",
+    "static/css/main.c8110a1b.chunk.css",
+    "static/js/main.d6aa3686.chunk.js"
+  ]
+}
