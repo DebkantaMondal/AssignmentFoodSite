@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AssignmentFoodSite/static/css/main.c8110a1b.chunk.css",
-    "main.js": "/AssignmentFoodSite/static/js/main.d6aa3686.chunk.js",
-    "main.js.map": "/AssignmentFoodSite/static/js/main.d6aa3686.chunk.js.map",
+    "main.js": "/AssignmentFoodSite/static/js/main.4b224500.chunk.js",
+    "main.js.map": "/AssignmentFoodSite/static/js/main.4b224500.chunk.js.map",
     "runtime-main.js": "/AssignmentFoodSite/static/js/runtime-main.7b478409.js",
     "runtime-main.js.map": "/AssignmentFoodSite/static/js/runtime-main.7b478409.js.map",
     "static/css/2.818011ed.chunk.css": "/AssignmentFoodSite/static/css/2.818011ed.chunk.css",
@@ -28,6 +28,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.846cefd5.chunk.js",
     "static/css/main.c8110a1b.chunk.css",
-    "static/js/main.d6aa3686.chunk.js"
+    "static/js/main.4b224500.chunk.js"
   ]
 }
