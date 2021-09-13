@@ -23,10 +23,10 @@ function App() {
                 <div className="col-md-9">
                   <ul>
                     <li>
-                      <Link to="/">Home</Link>
+                      <Link to="/AssignmentFoodSite">Home</Link>
                     </li>
                     <li>
-                      <Link to="/signup">Sign Up</Link>
+                      <Link to="/AssignmentFoodSite/signup">Sign Up</Link>
                     </li>
                   </ul>
                 </div>
@@ -36,10 +36,10 @@ function App() {
 
 
           <Switch>
-            <Route exact path="/">
+            <Route exact path="/AssignmentFoodSite">
               <Home />
             </Route>
-            <Route path="/signup">
+            <Route path="/AssignmentFoodSite/signup">
               <Signup />
             </Route>
           </Switch>
